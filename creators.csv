@@ -1,0 +1,11 @@
+creator_id,handle,platform,followers,engagement_rate,category,audience_france_pct,audience_women_18_34_pct,skincare_relevance,product_focus_tags,content_style,previous_roi,avg_response_time_hours,brand_safety_flag,estimated_cost
+cr_001,@skinwithclaire,Instagram,42000,5.8,Skincare Education,78,72,94,"acne care,sensitive skin,k-beauty","clinical honest minimal",3.8,8,false,650
+cr_002,@glowroutine_fr,TikTok,68000,6.4,K-beauty Routine,81,76,90,"k-beauty,hydration,acne care","friendly routine-based practical",4.2,10,false,800
+cr_003,@dermabeautyfr,YouTube,52000,4.1,Skincare Science,74,61,96,"sensitive skin,exfoliation,ingredients","educational clinical detailed",3.1,16,false,950
+cr_004,@parisbeautydaily,Instagram,125000,2.6,Beauty Lifestyle,69,64,72,"hydration,k-beauty,beauty lifestyle","aesthetic polished aspirational",2.4,18,false,1500
+cr_005,@acnejourney,TikTok,38000,7.2,Acne Care,83,79,98,"acne care,blemish care,sensitive skin","honest personal journey educational",4.6,6,false,550
+cr_006,@luxurybeautyedit,Instagram,210000,1.8,Luxury Beauty,58,49,55,"luxury beauty,makeup,fragrance","luxury polished editorial",1.9,30,false,2800
+cr_007,@familyglow,Instagram,76000,3.3,Lifestyle Mom Beauty,63,38,60,"hydration,family lifestyle","warm family lifestyle casual",2.1,20,false,700
+cr_008,@trendmakeupfr,TikTok,155000,5.1,Makeup Trend,80,74,48,"makeup trends,beauty hacks","fun trendy bold",2.7,12,false,1200
+cr_009,@minimalglow,Instagram,29000,6.0,Minimal Beauty,77,70,88,"sensitive skin,hydration,k-beauty","minimal clean honest",3.5,9,false,500
+cr_010,@skincarehot takes,TikTok,47000,4.8,Beauty Commentary,71,68,62,"skincare reviews,controversial takes","opinionated bold critical",2.8,7,true,600
